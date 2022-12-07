@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Yi Zhang
-- 👀 I’m interested in molecule generation/molecule property prediction
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Yi Zhang, a master student at South China University of Technology.
+
+- 💞️ I'm looking to collaborate on AI for Science/Molecule Generation/Molecule Property Prediction/Geometric Deep Learning. If you are interested, don't hesitate to contact me via WeChat: zhangyi_scut or yizhang_ml@foxmail.com.
+
 
 <!---
 ai4drug/ai4drug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
